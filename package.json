@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "author": "OpenBlock",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "node esbuild.config.js --watch",
+    "build": "node esbuild.config.js --minify"
+  },
+  "openblock": {
+    "name": "Arduino Uno R4 Minima",
+    "deviceId": "arduinoUnoR4Minima",
+    "manufactor": "arduino",
+    "learnMore": "https://docs.arduino.cc/hardware/uno-r4-minima",
+    "type": "arduino",
+    "iconURL": "./assets/arduinoUnoR4MinimaIconURL",
+    "description": {
+      "formatMessage": {
+        "id": "device.arduinoUnoR4Minima.description",
+        "default": "Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories."
+      }
+    },
+    "featured": true,
+    "disabled": false,
+    "bluetoothRequired": false,
+    "serialportRequired": true,
+    "defaultBaudRate": "9600",
+    "internetConnectionRequired": false,
+    "launchPeripheralConnectionFlow": true,
+    "useAutoScan": false,
+    "connectionIconURL": "./assets/arduinoUnoR4MinimaConnectionIconURLL",
+    "connectionSmallIconURL": "./assets/arduinoUnoR4MinimaConnectionSmallIconURL",
+    "main": "./src/arduinoUnoR4Minima.js",
+    "translations": "./src/translations.js",
+    "dependencies": {
+        "toolchains": {
+            "arduino-arduino-renesas_uno": "latest"
+        }
+    },
+    "programMode": ["realtime"],
+    "programLanguage": ["block", "cpp"],
+    "tags": ["arduino"],
+    "helpLink": "https://wiki.openblock.cc/general-hardware-guidelines/boards/arduino-uno-r4-minima"
+  }
+}
