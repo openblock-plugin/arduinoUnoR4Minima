@@ -1,4 +1,5 @@
 /* eslint-disable quote-props */
+/* eslint-disable max-len */
 /**
  * Translation file for this resouce.
  *

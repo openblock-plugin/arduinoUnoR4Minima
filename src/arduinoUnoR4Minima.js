@@ -1,4 +1,4 @@
-const { formatMessage, ArgumentType, BlockType, ProgramModeType, ArduinoPeripheral } = window.Scratch;
+const {formatMessage, ArgumentType, BlockType, ProgramModeType, ArduinoPeripheral} = window.Scratch;
 
 /**
  * The list of USB device filters.
@@ -935,4 +935,4 @@ class OpenBlockArduinoUnoR4MinimaDevice {
     }
 }
 
-export default  OpenBlockArduinoUnoR4MinimaDevice;
+export default OpenBlockArduinoUnoR4MinimaDevice;
