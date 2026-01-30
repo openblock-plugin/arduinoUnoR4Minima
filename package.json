@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openblock-resouce/arduinoUnoR4Minima.git"
+    "url": "https://github.com/openblock-plugin/arduinoUnoR4Minima.git"
   },
   "type": "module",
   "scripts": {
