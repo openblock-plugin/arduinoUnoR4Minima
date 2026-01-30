@@ -14,11 +14,10 @@ node_modules/
 # Lock files
 package-lock.json
 
-# Source files (will be bundled by esbuild)
-src/
-
-# Image files (wiil be converting to base64)
+# Source files
 assets/
+src/
+package.json
 
 # Version control
 .git/
