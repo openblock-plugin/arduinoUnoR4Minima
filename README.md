@@ -1,6 +1,6 @@
 # Arduino Uno R4 Minima
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/github/v/tag/openblock-plugin/arduinoUnoR4Minima?label=version)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Type](https://img.shields.io/badge/type-arduino-orange.svg)
 ![Tags](https://img.shields.io/badge/tags-arduino-lightgrey.svg)
