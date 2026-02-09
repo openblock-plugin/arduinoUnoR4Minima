@@ -26,7 +26,7 @@ export default {
             'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
         },
         'zh-cn': {
-            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
+            'arduinoUnoR4Minima.description': '提供更强的性能和更大的内存，同时保持与现有扩展板和配件的兼容性。'
         },
         'zh-tw': {
             'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
@@ -115,11 +115,11 @@ export default {
             'arduinoUnoR4Minima.InterrupModeMenu.fallingEdge': 'falling edge',
             'arduinoUnoR4Minima.InterrupModeMenu.changeEdge': 'change edge',
             'arduinoUnoR4Minima.InterrupModeMenu.low': 'low',
-            'arduinoUnoR4Minima.eolMenu.warp': 'warp',
-            'arduinoUnoR4Minima.eolMenu.noWarp': 'no-warp',
+            'arduinoUnoR4Minima.eolMenu.warp': '换行',
+            'arduinoUnoR4Minima.eolMenu.noWarp': '不换行',
             'arduinoUnoR4Minima.dataTypeMenu.integer': 'integer',
             'arduinoUnoR4Minima.dataTypeMenu.decimal': 'decimal',
-            'arduinoUnoR4Minima.dataTypeMenu.string': 'string',
+            'arduinoUnoR4Minima.dataTypeMenu.string': '字符串',
             'arduinoUnoR4Minima.category.pins': 'Pins',
             'arduinoUnoR4Minima.pins.setPinMode': 'set pin [PIN] mode [MODE]',
             'arduinoUnoR4Minima.pins.setDigitalOutput': 'set digital pin [PIN] out [LEVEL]',
